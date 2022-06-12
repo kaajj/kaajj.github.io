@@ -7,9 +7,9 @@
 
 }
 .b-hr {
-    color: #E20000;
+    color: #0a0a30;
     height: 20px;
-    border-bottom: 6px solid #e20000;
+    border-bottom: 6px solid #0a0a30;
     position: relative;
     margin-left: 142px;
     margin-top: -16px;
@@ -37,7 +37,7 @@ min-height: 120vh;
 }
 .num{
     font-size: 3.5rem;
-    color: #E20000;
+    color: #0a0a30;
 
 font-family: poppins;}
 .row2{
@@ -105,7 +105,7 @@ element.style {
     color: rgba(0,0,0,.9);
 }
 .home-logo {
-    color: #E20000 !important;
+    color: #0a0a30 !important;
     font-size: 2rem;
     font-weight: 700;
     font-family: 'Hind Siliguri';
