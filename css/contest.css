@@ -16,7 +16,7 @@ font-family: 'Poppins', sans-serif;
     padding-top: 9rem;
 }
 .container1{
-        background-color:#AD0000;
+        background-color:#0000cc;
     min-height: 100vh;
 
 }
@@ -29,17 +29,17 @@ font-family: 'Poppins', sans-serif;
     font-size: 1.3rem;
 }
 .m-logo{
-    color: #0a0a30;
+    color: #0000ff;
 }
 .market{
     text-align: center;
     align-items: center;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    color: #0a0a30};
+    color: #0000ff};
 
     hr{
-        color: #0a0a30;
+        color: #0000cc;
     }
     .tk {
         font-size: 27px;
@@ -59,7 +59,7 @@ font-family: 'Poppins', sans-serif;
         white-space: nowrap;
     }    
     .t-border {
-        border: 1px solid rgb(173, 0, 0) !important;
+        border: 1px solid rgb(0, 0, 0) !important;
         border-radius: 5px;
     }
     .row.row10 a{
