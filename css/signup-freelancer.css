@@ -12,7 +12,7 @@
     width: 22rem;
     height: 2.8rem;
     border: none;
-    background: #f1efef;
+    background:  ;
     border-radius: 11px;
     box-shadow: 1px 1px 3px 1px #a5a0a0d9;
 }
@@ -22,7 +22,7 @@ h4.sign-text.d-inline-block {
     color: #181717c9;
 }
 .name, .sign-text {
-    color: #AD0000;
+    color: #0000cc;
     font-family: 'Poppins';
 }
 h5.name.d-inline-block {
@@ -33,7 +33,7 @@ h5.name.d-inline-block {
     margin-top: -2%;
 }
 button.btn {
-    background: #AD0000;
+    background: #0000cc;
     color: white;
     font-size: 1.5rem;
     letter-spacing: 1px;
@@ -44,7 +44,7 @@ button.btn {
 }
 a.d-block.forgot-pass {
     text-decoration: none;
-    color: #ae0000;
+    color: #0000cc;
     font-size: 1.2rem;
     font-weight: 600;
 }
@@ -57,5 +57,5 @@ a.text-dark.text-decoration-none.home {
     position: absolute;
     margin-top: 2%;
     font-size: 20px;
-    border-bottom: 2px solid #0a0a30;
+    border-bottom: 2px solid #0000ff;
 }
