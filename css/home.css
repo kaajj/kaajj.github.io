@@ -15,7 +15,7 @@ h1,h2,h3,h4,.home-logo{
 
 
 .home-logo{
-    color: #0a4d59 !important; 
+    color: #0000ff !important; 
     font-size: 2rem;
     font-weight: 700;
 
@@ -63,11 +63,11 @@ height: 174px;
 }
 
 .btn{
-    color:#0a4d59;
+    color:#0000ff;
     font-weight: 800;
 }
 .wrrap-head h1{
-    color: #0a4d59;
+    color: #0000ff;
 }
 .border-line{
     /* border-left: 3px solid #0a4d59; */
@@ -76,17 +76,17 @@ height: 174px;
     align-items: center;
     justify-content: center;
    
-    color: #0a4d59;
+    color: #0000ff;
 }
 .border-line span {
     width: 3px;
     color: #fff;
     height: 112px;
-    border-left: 3px solid #0a4d59;
+    border-left: 3px solid #0000ff;
     padding-bottom: 96px;
 }
 .works h1{
-    color: #0a4d59;
+    color: #0000ff;
 }
 .star{
     color: #FFC700;}
@@ -122,13 +122,13 @@ height: 174px;
         margin: 54px;
     }
     .log-see{
-        border-bottom: 3px solid #0a4d59;
+        border-bottom: 3px solid #0000ff;
         padding-bottom:10px ;
       
     }
     .c-p i
     {
-        color: #0a4d59;
+        color: #0000ff;
     }
 
     .c-p{
