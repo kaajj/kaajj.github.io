@@ -3,10 +3,10 @@ a.text-dark.text-decoration-none.home {
     position: absolute;
     margin-top: 2%;
     font-size: 20px;
-    border-bottom: 2px solid #0a0a30;
+    border-bottom: 2px solid #0000ff;
 }
 .first-header {
-    color: #0a0a30;
+    color: #0000ff;
     font-size: 3.5rem;
     font-weight: 700 !important;
     font-family: 'Hind Siliguri', sans-serif;
@@ -19,7 +19,7 @@ a.text-dark.text-decoration-none.home {
     justify-content: center;
 }
 .signup-a a{
-    background-color: #ad0000;
+    background-color: #0000cc;
     color: #fff;
     margin-top: 1rem;
     border-radius: 5px;
